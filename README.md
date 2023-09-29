@@ -24,27 +24,40 @@ To play the **Blackjack Game**, follow these simple steps:
    git clone https://github.com/yourusername/Blackjack-Game.git
 
 2.Open the project folder and locate the index.html file.
+
 3.Double-click the index.html file to open it in your web browser.
+
 4.Enjoy playing Blackjack!
 
 ## How to Play
 
 1.Click the "START GAME" button to begin a new game. You will receive two initial cards, and the sum of their values will be displayed.
+
 2.If the sum of your initial cards is 21, you win with Blackjack! The game will display a message indicating your victory.
+
 3.If the sum of your initial cards is less than 21, you have the option to click the "New Card" button to draw additional cards. Each card's value will be added to your total.
+
 4.Be careful not to exceed 21! If your total goes over 21, you will lose the game.
+
 5.The game will provide messages to guide you through your progress and announce the outcome.
+
 6.Continue playing, and try to beat the dealer by getting as close to 21 as possible without going over!
 
 ## Contributing
 We welcome contributions to the Blackjack Game project. If you have ideas for improvements, bug fixes, or new features, please follow these steps:
 
 1.Fork the repository on GitHub.
+
 2.Clone your forked repository to your local machine.
+
 3.Create a new branch for your feature or bug fix.
+
 4.Make your changes and commit them with clear, descriptive commit messages.
+
 5.Push your changes to your forked repository.
+
 6.Create a pull request to merge your changes into the main project.
+
 7.Your pull request will be reviewed, and your contributions may be merged into the project.
 
 ##
